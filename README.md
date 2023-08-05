@@ -1,8 +1,8 @@
 # 🐭️ Mousehunt - Quick Pollutinum Refined Scoreboard Search
 
 ![Greasy Fork](https://img.shields.io/greasyfork/dt/461469)
-![GitHub](https://img.shields.io/github/license/mouseplace/mh-ultimate-checkmark)
-![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/mouseplace/mh-ultimate-checkmark?label=version)
+![GitHub](https://img.shields.io/github/license/mouseplace/mh-pollutinum-scoreboard)
+![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/mouseplace/mh-pollutinum-scoreboard?label=version)
 
 A Userscript for [MouseHunt](https://mousehuntgame.com) to easily look up a Hunter's Refined Pollutinum Scoreboard.
 
